@@ -36,7 +36,7 @@ pip install torch torchvision numpy matplotlib
 1. **Clone the repository**:
 
 ```bash
-git clone https://github.com/yourusername/cifar10_project.git
+git clone https://github.com/SandyHedia/cifar10_project.git
 cd cifar10_project
 ```
 
